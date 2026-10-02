@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hajun+Yoon+%F0%9F%91%8B;Computer+Vision+%26+AI+Researcher;Backend+%26+Database+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+HaeRang+Yoon+%F0%9F%91%8B;Computer+Vision+%26+AI+Researcher;Backend+%26+Database+Engineer;)](https://git.io/typing-svg)
 
 <!-- 방문자 수 -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haerang-yoon.haerang-yoon)
