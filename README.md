@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hajun+Yoon+%F0%9F%91%8B;Computer+Vision+%26+AI+Researcher;Backend+%26+Database+Engineer;)](https://git.io/typing-svg)
 
 <!-- 방문자 수 -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=h4jun-yoon.h4jun-yoon)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haerang-yoon.haerang-yoon)
 
 <!-- 소셜 링크 -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/h4jun_264?igsh=a3ZodGt6cGw5MTNl&utm_source=qr)
@@ -60,13 +60,13 @@
 ## 📈 Activity Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4jun-yoon&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haerang-yoon&theme=tokyonight" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4jun-yoon&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4jun-yoon&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4jun-yoon&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4jun-yoon&theme=tokyonight&utcOffset=9" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haerang-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haerang-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haerang-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haerang-yoon&theme=tokyonight&utcOffset=9" height="160"/>
 </div>
 
 ---
